@@ -1,0 +1,103 @@
+/** **/ 
+header{background-color:#ffffff;
+	height: 110px;
+    width: 100%;
+    border-bottom-color: #d3d3d3;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+
+}
+body{
+margin:0;
+font-family: Helvetica;
+}
+hr{
+	size:5;
+}
+.col-sm-8{
+	background-color: #fff;
+}
+.namebox{
+background-color: #4aaaa5;
+height: 100px;
+width:250px;
+float:left;
+margin:10px 0px 0px 100px;
+}
+.name{ color:white;
+	font-size:25px;
+margin: 35px 0px 0px 12px;
+}
+.navtab{ float:right;
+	float:top;
+	color:#d3d3d3;
+	margin-top:30px;
+	margin-right:30px;
+	padding-right: 350px;
+
+
+}
+
+}
+.divlineheader{ width:100%;
+	background-color:red;
+	height: 3px;
+	margin: 130px 0px 0px 0px;
+
+} 
+
+
+}
+.divline{
+border-bottom: 2px solid #d3d3d3;
+width: 170px
+}
+.aboutme{ color:#4aaaa5;
+	font-size:28px;
+}
+.wholeaboutme{float:left;
+	width: 600px;
+	height: 450px
+	border: 3px solid #cccccc;
+	background-color: #ffffff;
+	margin: 2% 2% 10% 10%;
+}
+.profile{width:200px;
+	float: left;
+
+	padding-bottom: 5%;
+	padding-left:5%;
+	margin: 20px 10px 30px 10px;
+
+}
+.paragraph1{
+margin: 0% 0% 0% 0%;
+}
+.paragraph2{ 
+
+}
+.connectwithme{ float:left;
+margin: 2% 0px 0px 30px;
+color: #4aaaa5;
+background-color: #ffffff;
+border: 5px #cccccc;
+width: 220px;
+height: 180px;
+}
+.connecttitle{
+	margin-left: 15px;
+}
+.divline2{
+	border-bottom: 2px solid #d3d3d3;
+width: 170px
+
+}
+.icon{ float:left;
+	height:50px;
+	width:50px;
+	margin: 18px 0 0 15px;
+}
+#contact-form{
+	width: 100%
+
+}
