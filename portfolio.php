@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>title</title>
+    <title>Portfolio</title>
   </head>
   <body background="images/vintage-leaves.png">
   <div class="container">
@@ -15,46 +15,43 @@
   
      <p class="navbar-text navbar-right" style= "paddig-bottm: 10px"> 
           <tr>
-          <td> <a href="index.html" style= "color:#d3d3d3;" >About</a></td>
+          <td> <a href="index.php" style= "color:#d3d3d3;" >About</a></td>
           <td>   |   </td>
-          <td><a href="contact.html" style = "color:#d3d3d3;">Contact</a></td>
+          <td><a href="contact.php" style = "color:#d3d3d3;">Contact</a></td>
           <td>   |   </td>
-          <td><a href="portfolio.html" style= "color:#d3d3d3";>Portfolio</a></td>
+          <td><a href="portfolio.php" style= "color:#d3d3d3" ;>Portfolio</a></td>
         </tr></p>
         </div>
     </div>
   </div>
 </nav>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-8">
-      <form id="contact-form">
-        <ul>
-          <li>
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name" placeholder="John Smith" required="required">
-          </li>
-          <li>
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" placeholder="example@gmail.com" required="required">
-          </li>
-          <li>
-            <label for="message">Message</label>
-            <textarea id="message" name="message" required="required"></textarea>
-          </li>
-        </ul>
-        <input type="submit">
-      </form>
-    </div>
-    
-  <div class="col-sm-4"></div>
-
-
-
+<div class="container" style="background-color:white;"></div>
+<div class="row"></div>
+<div class="col-sm-8" style="margin-bottom:50px;"> <h2> Portfolio </h2> <hr>
+  <div class="col-sm-4" style="align-items: center;">
+   <div> <img src= "images/200.jpg" class="l200" style= "border-bottom-style: solid;
+  border-bottom-color: #4aaaa5;
+  border-bottom-width: 20px; border-bottom:;"></div>
+  <div> <img src= "images/200.jpg" class="l200" style= "border-bottom-style: solid;
+  border-bottom-color: #4aaaa5;
+  border-bottom-width: 20px; border-bottom:;"></div>
+  <div> <img src= "images/200.jpg" class="l200" style= "border-bottom-style: solid;
+  border-bottom-color: #4aaaa5;
+  border-bottom-width: 20px; border-bottom:;"></div>
+  </div>
+  <div class="col-sm-4" style="padding-bottom:40px">
+    <div> <img src= "images/200.jpg" class="l200" style= "border-bottom-style: solid;
+  border-bottom-color: #4aaaa5;
+  border-bottom-width: 20px; border-bottom:;"></div>
+  <div> <img src= "images/200.jpg" class="l200" style= "border-bottom-style: solid;
+  border-bottom-color: #4aaaa5;
+  border-bottom-width: 20px; border-bottom:;"></div>
+  </div>
+</div>
 
 
 <section class="connectwithme">
+
 
 <h2 class="connecttitle"> Connect with Me </h2>
 
@@ -66,9 +63,10 @@
 
     <img src="images/linkedin.png" class="icon">
 
-  </section></div>
-      </div>
+  </section>
     </div>
+      </div>
+      </div>
     </div>
   <div class="container">
     <div class="row">
